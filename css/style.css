@@ -44,3 +44,27 @@ h1 {
  .list{
     padding:15px;
  }
+
+table{
+    height: 100px;
+    width: 800px;
+    text-align: left;
+    border-collapse: collapse;
+
+}
+
+td{
+    max-width: 300px;
+}
+
+tr{
+    padding: 0;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+.blue {
+    background-color: blue;
+    color: white;
+}
