@@ -1,10 +1,9 @@
-#logo{
-
+#logo {
     height: 60px;
     padding-top: 100px;   
 }
 
-.banner{
+.banner {
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
     background-size:auto;
@@ -12,3 +11,21 @@
     background-position: center top;
     background-color: rgb(53, 136, 245);
 }
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.homepage {
+    color: rgb(58, 164, 250);
+}
+.cap-home {
+   color: grey;
+}
+
+.cap-home2 {
+    color: grey;
+    font-size: 10px; 
+ }
+ 
