@@ -46,11 +46,9 @@ h1 {
  }
 
 table{
-    height: 100px;
     width: 100%;
     text-align: left;
     border-collapse: collapse;
-
 }
 
 td{
