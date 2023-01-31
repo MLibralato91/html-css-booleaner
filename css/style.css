@@ -15,7 +15,7 @@
 h1 {
     font-size: 40px;
     margin-bottom: 0;
-}
+}     
 
 .homepage {
     color: rgb(58, 164, 250);
@@ -66,5 +66,25 @@ tr{
 }
 .blue {
     background-color: blue;
+    color: white;
+}
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    padding: 0;
+    margin: 0;
+}
+
+.graph   {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
     color: white;
 }
